@@ -9,6 +9,6 @@ Tela de cadastro:
 
 
 Tela de gráfico:
-aqui na tela de gráfico existe uma ordenação por data.
+aqui na tela de gráfico existe uma ordenação por data e a quantidade de clientes cadastrado naquele dia.
 
 ![image](https://github.com/user-attachments/assets/1de3d785-332c-440a-8e4f-4b8bd8e71af2)
