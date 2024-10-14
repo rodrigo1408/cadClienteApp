@@ -15,6 +15,6 @@ aqui na tela de gráfico existe uma ordenação por data e a quantidade de clien
 ![image](https://github.com/user-attachments/assets/1de3d785-332c-440a-8e4f-4b8bd8e71af2)
 
 
-Nova atualização de página, quando for cadastrado o cliente na mesma pagina já exibir o gráfico.
+Nova atualização de página, quando for cadastrado o cliente na mesma pagina já exibir o gráfico, e troquei o campo idade para email.
 
 ![image](https://github.com/user-attachments/assets/fee03c45-ba82-4a2c-be30-8d70e6c05b4d)
