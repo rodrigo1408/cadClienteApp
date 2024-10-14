@@ -11,9 +11,15 @@
       <ion-input [(ngModel)]="cliente.nome" name="nome" required></ion-input>
     </ion-item>
     <ion-item>
-      <ion-label position="floating">Idade</ion-label>
-      <ion-input [(ngModel)]="cliente.idade" name="idade" type="number" required></ion-input>
+      <ion-label position="floating">Email</ion-label>
+      <ion-input [(ngModel)]="cliente.email" name="eamil" required></ion-input>
     </ion-item>
     <ion-button expand="full" type="submit">Cadastrar</ion-button>
   </form>
+
+  <ion-toolbar>
+    <ion-title>Gráfico de Clientes</ion-title>
+  </ion-toolbar>
+  <canvas id="canvas"></canvas>
 </ion-content>
+ 

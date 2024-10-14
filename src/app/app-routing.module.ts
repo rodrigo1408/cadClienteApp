@@ -11,14 +11,22 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },*/
+  
+  // Rota coringa para capturar qualquer rota inválida
   {
-    path: '',
+    path: '**',
+    redirectTo: '',  // Redireciona para a página inicial ou qualquer outra página
+    pathMatch: 'full'
+  },
+  {
+    path: '', 
+    pathMatch: 'full',
     loadChildren: () => import('./cliente/cliente.module').then( m => m.ClientePageModule)
   },
-  {
+ /* {
     path: 'grafico',
     loadChildren: () => import('./grafico/grafico.module').then( m => m.GraficoPageModule)
-  },
+  },*/
 ];
 
 @NgModule({

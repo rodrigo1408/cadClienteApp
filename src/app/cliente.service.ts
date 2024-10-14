@@ -5,7 +5,7 @@ import { Observable } from 'rxjs';
 // Interface que define o modelo de cliente
 export interface Cliente {
   nome: string;
-  idade: number;
+  email: string;
   dataCadastro: Date;
 }
 
