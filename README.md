@@ -3,6 +3,7 @@ existe uma outra pagina, no qual pega esses clientes cadastrado por dia e mostra
 
 
 tela de cadastro 
+
 ![image](https://github.com/user-attachments/assets/ee0baa73-96ad-434b-9bee-58ecf8e9ea11)
 
 
