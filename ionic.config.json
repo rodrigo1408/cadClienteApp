@@ -1,0 +1,7 @@
+{
+  "name": "cadClienteApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
